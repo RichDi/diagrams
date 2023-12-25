@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-12-25T23:02:18.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="XFqlTpYtJkKyw6d83Ph9" version="22.1.11" type="github">
+  <diagram name="Página-1" id="k836YvEuC-lsRU9LXpxf">
+    <mxGraphModel dx="1204" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
+          <mxGeometry x="127.75" y="410" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="54.25" y="40" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg9fbAHh8Q7-nbk07Iin-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Marketplace.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="563" width="88.38" height="101" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
